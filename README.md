@@ -91,8 +91,8 @@ Complete hyperparameters, prompts, and training methodology are documented in th
 
 ## Models and Data
 
-- **Trained model checkpoints (LoRA adapters):** Hugging Face, link forthcoming.
-- **Training dataset (12,002 rows: FEN, best move, structured reasoning):** Kaggle, link forthcoming.
+- **Trained model checkpoints (LoRA adapters):** [Hugging Face](https://huggingface.co/unpairedelectron07/ChessGRPO-The-Weight-of-Silence)
+- **Training dataset (12,002 rows: FEN, best move, structured reasoning):** [Kaggle](https://www.kaggle.com/datasets/ishankshirsagar07/chessgrpo-the-weight-of-silence)
 
 ## Citation
 
